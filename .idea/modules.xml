@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutomationDemo.iml" filepath="$PROJECT_DIR$/AutomationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleAutomationModule/com.ekta.app.iml" filepath="$PROJECT_DIR$/SampleAutomationModule/com.ekta.app.iml" />
+    </modules>
+  </component>
+</project>
